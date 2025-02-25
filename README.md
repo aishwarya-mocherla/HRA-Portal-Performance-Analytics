@@ -8,3 +8,4 @@ Trends in interactions with key portal sections, including 2D/3D Reference Objec
 The dataset consists of Google Analytics logs in a CSV format, with fields like user IDs, timestamps, URLs, and event details. Queries will be processed via BigQuery, enabling detailed analysis and visualization in Power BI.
 
 The final dashboard will help understand user behavior, content popularity, and engagement trends, guiding improvements for better user experience and outreach.
+![image](https://github.com/user-attachments/assets/4a56ec2b-95fe-43b3-8c7c-fcbd822999f3)
